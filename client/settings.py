@@ -1,0 +1,11 @@
+#-# Socket #-#
+IP = "5.tcp.eu.ngrok.io"
+PORT = 10584
+ADDR = (IP, PORT)
+HEADER = 256
+FORMAT = 'utf-8'
+
+#-# Commands #-#
+DISCONNECT_COMMAND = "!DISCONNECT"
+PLAYER_NAME_COMMAND = "!PLAYER_NAME"
+MESSAGE_COMMAND = "!MESSAGE"
