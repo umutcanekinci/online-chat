@@ -1,6 +1,6 @@
 #-# Socket #-#
-IP = "5.tcp.eu.ngrok.io"
-PORT = 10584
+IP = "localhost" #"5.tcp.eu.ngrok.io"
+PORT = 5050
 ADDR = (IP, PORT)
 HEADER = 256
 FORMAT = 'utf-8'
