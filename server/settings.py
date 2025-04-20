@@ -1,5 +1,5 @@
 #-# Socket #-#
-IP = "localhost" # socket.gethostbyname(socket.gethostname())
+IP = "localhost" # same as socket.gethostbyname(socket.gethostname())
 PORT = 5050
 ADDR = (IP, PORT)
 HEADER = 256
